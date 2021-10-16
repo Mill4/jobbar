@@ -1,0 +1,8 @@
+{
+  "name": "Jobbar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "bda04ed6"
+}

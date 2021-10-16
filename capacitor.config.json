@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Jobbar",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
